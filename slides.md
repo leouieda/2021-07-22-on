@@ -64,25 +64,14 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
-<!-- .slide: data-background-image="assets/title-slide.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
-
-<div class="r-stretch bottom-right">
-
-This is a little footnote.
-<br>
-The background is contained so that it won't crop the top/bottom if the browser
-window isn't maximized.
-
-</div>
-
----
-
 <!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
 
 <div class="centered">
-<div>
+<div class="huge">
 
-# A transition slide <br> with a centered title
+1. Quem eu sou
+1. O que eu faço
+1. Como eu cheguei até aqui
 
 </div>
 </div>
@@ -93,7 +82,18 @@ window isn't maximized.
 
 <div class="r-stretch bottom-right">
 
-This is how you use a video background.
+Sou do interior de São Paulo, região com o melhor sotaque do Brasil
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/sao-paulo.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
+
+Trivia: [Botucatu](https://pt.wikipedia.org/wiki/Botucatu) é a sede da
+Associação Nacional de Criadores de Saci
 
 </div>
 
