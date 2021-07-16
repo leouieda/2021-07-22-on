@@ -13,15 +13,13 @@ The reveal.js configuration can be found in index.html
 <div class="lefted">
 
 <h1 id="talk-title">
-    A long talk title that may be several lines in the slide
+<strong>Academia + software:</strong>
+Desafios e oportunidades
+no Brasil e no exterior
 </h1>
 
 <p id="talk-authors">
-    <span id="talk-speaker">Leonardo Uieda</span>
-<span style="margin: 0 10px">•</span>
-    Santiago Soler
-<span style="margin: 0 10px">•</span>
-    Agustina Pesce
+    Leonardo Uieda
 </p>
 
 <!-- Social media handles and links -->
@@ -34,9 +32,10 @@ The reveal.js configuration can be found in index.html
 <div class="container talk-info">
 <div class="col">
 
-Event/host of the talk
-<span style="margin: 0 20px">•</span>
-XX Month 202X
+National Observatory Greenstone Belt (SEG-EAGE Student Chapter)
+<br>
+<!--<span style="margin: 0 20px">•</span>-->
+22 Julho 2021
 
 <!-- Permission to reuse and CC-BY license logo -->
 <p><a href="https://creativecommons.org/licenses/by/4.0/">
@@ -204,7 +203,7 @@ This is a boring list:
 <div class="centered">
 <div>
 
-# Contact
+# Contato
 
 <ul class="fa-ul" style="">
 <li><i class="fa-li fa fa-envelope"></i>
