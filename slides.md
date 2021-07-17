@@ -13,7 +13,7 @@ The reveal.js configuration can be found in index.html
 <div class="lefted">
 
 <h1 id="talk-title">
-<strong>Academia + software:</strong>
+<strong>Academia e software livre:</strong>
 <br>
 Desafios e oportunidades
 <br>
@@ -97,7 +97,296 @@ Associação Nacional de Criadores de Saci
 
 ---
 
+Graduado em Geofísica pela USP
 
+Mesma turma que o Vanderlei.
+
+Descobri a programação e continuei indo atrás (matérias, IC, hobby).
+
+---
+
+Intercâmbio na York University, Canada.
+
+Amigos até hoje, culturas diferentes, geodésia (ainda tenho contato com meu
+professor).
+
+---
+
+Mestrado e Doutorado pelo ON com a Valéria.
+
+Valéria me deixou livre pra programar.
+
+Interesse em ciência aberta, reprodutibilidade e divulgação
+
+Comecei a investir nas ferramentas open-source.
+
+---
+
+Professor na UERJ.
+
+Experiência excelente de dar aula e interagir com os outros professores.
+
+Aprendi muito: pedagogia, assunto (sísmica e geologia), relações humanas
+
+Hora para pensar a longo prazo e colocar minhas ideias em contexto
+
+---
+
+Pesquisador visitante na UH (posdoc)
+
+Abriu meus olhos para como a ciência funciona no resto do mundo.
+
+Ressaltou as vantagens do Brasil.
+
+Acesso à rede de pesquisadores renomados (Paul é muito popular).
+
+Pensar sobre financiamento, impacto da pesquisa na sociedade, aplicações,
+colaborações, etc.
+
+---
+
+Saí da UERJ e Professor (lecturer) em Liverpool.
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
+
+<div class="centered">
+<div>
+
+# O que eu faço
+
+</div>
+</div>
+
+---
+
+Modelagem direta com tesseroides. Primeira coisa que eu trabalhei.
+
+---
+
+Inversão de métodos potenciais (grav + mag)
+
+Escala local a global
+
+Filme da sementinha.
+
+---
+
+Software
+
+Fatiando, tesseroides, GMT
+
+Pesquisa e ensino
+
+---
+
+Ensino
+
+Várias matérias: programação, grav, sensoriamento remoto, campo, etc.
+
+Usa programação em tudo.
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
+
+<div class="centered">
+<div>
+
+# Como eu cheguei até aqui
+
+</div>
+</div>
+
+---
+
+# Privilégio
+
+Pais acadêmicos
+
+Classe média
+
+Interior de São Paulo
+
+Suporte familiar
+
+Escola privada
+
+Inglês
+
+Homem
+
+Branco + asiático
+
+Brasil tem bolsas e ensino público gratuito
+
+---
+
+# Sorte
+
+Prestei geofísica
+
+Entrar na USP em 2004 foi crucial. Turma foda. Professores foda.
+
+Período de crescimento econômico do país
+
+Valéria me aceitou mesmo com más recomendações
+
+Mentores excepcionais: Manoel, Naomi, Carla, Valéria, Paul
+
+Vaga na UERJ na hora certa
+
+Vaga do GMT na hora certa
+
+Vaga em Liverpool na hora certa
+
+Gostei de programação na hora certa
+
+---
+
+# Oportunidades
+
+Privilégio e sorte foram fatores importantes para essas oportunidades serem
+acessíveis.
+
+Sempre busquei, pesquisei, perguntei, apliquei
+
+USP e ON forneceram muitas (financiamento e incentivo)
+
+Fui em todos os congressos que consegui
+
+Estabeleci contatos
+
+Aproveitei e me expus: não neguei apresentações, divulgo meu trabalho, converso
+com picudos.
+
+---
+
+# Rede de apoio
+
+Turma do IAG
+
+Turma do ON
+
+---
+
+# Disclaimer
+
+Essa é a minha experiência.
+
+Minha experiência não é aplicável a todos
+
+Não são prerequisitos
+
+Outros caminhos são possíveis
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
+
+<div class="centered">
+<div>
+
+# Academia + software
+
+</div>
+</div>
+
+---
+
+# Software na ciência
+
+Por que é importante, etc.
+
+---
+
+# Software livre
+
+Interesse por software livre na faculdade (PCs era linux)
+
+Reprodutibilidade, "stand on the shoulders of giants"
+
+---
+
+# Oportunidades
+
+O que se tem a ganhar investindo em software
+
+Reputação, publicações, agilidade na pesquisa, ensino de qualidade, currículo
+competitivo fora da academia, rede de contatos.
+
+---
+
+# Desafios
+
+Cuidados para se tomar.
+
+Carreira acadêmica ainda precisa de papers + projetos. Pelo menos o mínimo para
+ser competitivo. Financiamento de software. Burnout. Trabalho voluntário
+depende de privilégio.
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
+
+<div class="centered">
+<div>
+
+# Dicas
+
+</div>
+</div>
+
+---
+
+# Geral
+
+Reconheça seus privilégios.
+
+Busque oportunidades e tome proveito.
+
+Pense e se comporte como um profissional, não como aluno.
+
+---
+
+# Programação
+
+Aprendizagem contínua (mesmo depois de 17 anos)
+
+Estude tudo que tem no Software Carpentry
+
+Progresso iterativo
+
+Leia o código dos outros
+
+Simples é melhor que rápido
+
+Se envolva em projetos
+
+Entre no Software Underground
+
+---
+
+# Exterior (EUA e Europa)
+
+Tudo custa dinheiro.
+
+Alunos independentes são valorizados
+
+Visto, mudança, etc são caros e difícil de financiar
+
+Tem que passar um tempo fora para conseguir um emprego
+
+Rede é tudo (recomendações e nomeações)
+
+Projetos > papers (dinheiro é muito importante)
+
+Bolsas nos EUA são mais fáceis pois podem ser pagas por projeto de professor.
+
+Precisa de certificado de inglês (TOEFL e IELTS)
+
+Ir com dinheiro próprio (do Brasil) é muito mais fácil mas tem restrições
 
 ---
 
