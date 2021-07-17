@@ -348,6 +348,12 @@ Busque oportunidades e tome proveito.
 
 Pense e se comporte como um profissional, não como aluno.
 
+Ser independente, ativo, entusiasmado, não ser passivo, mostrar interesse, tome
+as rédias, a vida é sua.
+
+Vocês não são mais estudantes. São profissionais. Sua carreira depende de vocês
+também, não só fatores externos.
+
 ---
 
 # Programação
@@ -387,6 +393,8 @@ Bolsas nos EUA são mais fáceis pois podem ser pagas por projeto de professor.
 Precisa de certificado de inglês (TOEFL e IELTS)
 
 Ir com dinheiro próprio (do Brasil) é muito mais fácil mas tem restrições
+
+The Professor Is In é obrigatório
 
 ---
 
