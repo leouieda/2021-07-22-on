@@ -14,27 +14,25 @@ The reveal.js configuration can be found in index.html
 
 <h1 id="talk-title">
 <strong>Academia + software:</strong>
+<br>
 Desafios e oportunidades
+<br>
 no Brasil e no exterior
 </h1>
 
 <p id="talk-authors">
     Leonardo Uieda
-</p>
-
-<!-- Social media handles and links -->
-<p id="talk-social">
-<i class="fab fa-twitter fa-fw"></i>
-<a href="https://twitter.com/leouieda">@leouieda</a>
+    <span style="margin: 0 30px">•</span>
+    <i class="fab fa-twitter fa-fw"></i>
+    <a href="https://twitter.com/leouieda">@leouieda</a>
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
 <div class="container talk-info">
-<div class="col">
+<div class="col-large">
 
 National Observatory Greenstone Belt (SEG-EAGE Student Chapter)
-<br>
-<!--<span style="margin: 0 20px">•</span>-->
+<span style="margin: 0 20px">•</span>
 22 Julho 2021
 
 <!-- Permission to reuse and CC-BY license logo -->
@@ -47,7 +45,7 @@ CC-BY 4.0 License
 Feel free to screenshot/share/reuse/remix this presentation
 
 </div>
-<div class="col">
+<div class="col-small">
 
 <!-- Add logos here. Need these wrappers to align them to the bottom right -->
 <div class="talk-logos-container">
@@ -96,6 +94,10 @@ Trivia: [Botucatu](https://pt.wikipedia.org/wiki/Botucatu) é a sede da
 Associação Nacional de Criadores de Saci
 
 </div>
+
+---
+
+
 
 ---
 
