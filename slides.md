@@ -70,6 +70,8 @@ Feel free to screenshot/share/reuse/remix this presentation
 1. Quem eu sou
 1. O que eu faço
 1. Como eu cheguei até aqui
+1. Software livre na ciência
+1. Dicas
 
 </div>
 </div>
@@ -288,7 +290,7 @@ Outros caminhos são possíveis
 <div class="centered">
 <div>
 
-# Academia + software
+# Software livre na ciência
 
 </div>
 </div>
@@ -340,40 +342,6 @@ depende de privilégio.
 
 ---
 
-# Geral
-
-Reconheça seus privilégios.
-
-Busque oportunidades e tome proveito.
-
-Pense e se comporte como um profissional, não como aluno.
-
-Ser independente, ativo, entusiasmado, não ser passivo, mostrar interesse, tome
-as rédias, a vida é sua.
-
-Vocês não são mais estudantes. São profissionais. Sua carreira depende de vocês
-também, não só fatores externos.
-
----
-
-# Programação
-
-Aprendizagem contínua (mesmo depois de 17 anos)
-
-Estude tudo que tem no Software Carpentry
-
-Progresso iterativo
-
-Leia o código dos outros
-
-Simples é melhor que rápido
-
-Se envolva em projetos
-
-Entre no Software Underground
-
----
-
 # Exterior (EUA e Europa)
 
 Tudo custa dinheiro.
@@ -395,6 +363,40 @@ Precisa de certificado de inglês (TOEFL e IELTS)
 Ir com dinheiro próprio (do Brasil) é muito mais fácil mas tem restrições
 
 The Professor Is In é obrigatório
+
+---
+
+# Programação
+
+Aprendizagem contínua (mesmo depois de 17 anos)
+
+Estude tudo que tem no Software Carpentry
+
+Progresso iterativo
+
+Leia o código dos outros
+
+Simples é melhor que rápido
+
+Se envolva em projetos
+
+Entre no Software Underground
+
+---
+
+# Geral
+
+Reconheça seus privilégios.
+
+Busque oportunidades e tome proveito.
+
+Pense e se comporte como um profissional, não como aluno.
+
+Ser independente, ativo, entusiasmado, não ser passivo, mostrar interesse, tome
+as rédias, a vida é sua.
+
+Vocês não são mais estudantes. São profissionais. Sua carreira depende de vocês
+também, não só fatores externos.
 
 ---
 
@@ -507,26 +509,30 @@ This is a boring list:
 <ul class="fa-ul" style="">
 <li><i class="fa-li fa fa-envelope"></i>
 
-[Leonardo.Uieda@liverpool.ac.uk](mailto:Leonardo.Uieda@liverpool.ac.uk)
+**email:** [Leonardo.Uieda@liverpool.ac.uk](mailto:Leonardo.Uieda@liverpool.ac.uk)
 
 </li>
-<li><i class="fa-li fab fa-twitter"></i>
+<li><i class="fa-li fa fa-home"></i>
 
-[@leouieda](https://twitter.com/leouieda)
-
-</li>
-<li><i class="fa-li fa fa-desktop"></i>
-
-[www.leouieda.com](https://www.leouieda.com)
+**website:** [leouieda.com](https://www.leouieda.com)
 
 </li>
 <li><i class="fa-li fa fa-flask"></i>
 
-[www.compgeolab.org](https://www.compgeolab.org)
+**groupo:** [compgeolab.org](https://www.compgeolab.org)
+
+</li>
+<li><i class="fa-li fa fa-desktop"></i>
+
+**slides:** [leouieda.com/2021-07-22-on](https://www.leouieda.com/2021-07-22-on)
+
+</li>
+<li><i class="fa-li fab fa-github"></i>
+
+**código:** [github.com/leouieda/2021-07-22-on](https://github.com/leouieda/2021-07-22-on)
 
 </li>
 </ul>
-
 </div>
 </div>
 
