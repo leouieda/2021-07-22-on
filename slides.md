@@ -3,7 +3,7 @@ This file defines the contents of each slide.
 The reveal.js configuration can be found in index.html
 -->
 
-<!-- .slide: class="slide-title" data-background-image="assets/title-slide.svg" data-background-color="#000000" data-background-repeat="no-repeat" data-background-position="center" -->
+<!-- .slide: class="slide-title" data-background-image="assets/title-slide.svg" data-background-color="#000000" data-background-size="contain" -->
 
 <!-- Place the content at the bottom of the slide -->
 <div class="r-stretch">
@@ -209,31 +209,106 @@ Minhas habilidades de padeiro evoluíram mais que qualquer outra coisa
 
 ---
 
-Modelagem direta com tesseroides. Primeira coisa que eu trabalhei.
+<div class="container centered">
+<div class="col-left">
+
+# Modelagem direta
+
+Campos gravitacionais
+
+Elementos esféricos (tesseroides)
+
+Integração numérica
+
+Lançamento do satélite GOCE em 2009
+
+Graduação até o Doutorado
+
+</div>
+<div class="col-right tiny">
+
+<img src="assets/tesseroid.jpg">
+
+Tesseroide após discretização adaptativa
+([Uieda et al., 2016](https://doi.org/10.1190/geo2015-0204.1))
+
+</div>
+</div>
 
 ---
 
-Inversão de métodos potenciais (grav + mag)
+<div class="container centered">
+<div class="col-left tiny">
+
+<video style="width: 100%" muted data-autoplay loop>
+<source data-src="assets/planting-inversion.mp4" type="video/mp4"/>
+</video>
+
+Algoritmo de plantação para inversão de dados gravimétricos
+<br>
+([Uieda & Barbosa, 2012](https://doi.org/10.1190/geo2011-0388.1))
+
+</div>
+<div class="col-right">
+
+# Inversão 3D
+
+Desenvolvimento de métodos
+
+Métodos potenciais (grav + mag)
 
 Escala local a global
 
-Filme da sementinha.
+Intrusões, recursos minerais, Moho
+
+</div>
+</div>
 
 ---
 
-Software
+# Software livre
 
-Fatiando, tesseroides, GMT
+<div class="container">
+<div class="col-software">
 
-Pesquisa e ensino
+<img src="assets/tesseroids-logo.svg">
+
+## Tesseroids
+
+(2008)
+
+</div>
+<div class="col-software">
+
+<img src="assets/fatiando-logo.svg">
+
+## Fatiando a Terra
+
+(2010)
+
+</div>
+<div class="col-software">
+
+<img src="assets/gmt.png">
+
+## GMT
+
+(2017)
+
+</div>
+</div>
 
 ---
 
-Ensino
+<!-- .slide: data-background-video="assets/seismic-waves-demo.mp4" data-background-size="contain" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right bottom-dark">
 
 Várias matérias: programação, grav, sensoriamento remoto, campo, etc.
-
+<br>
 Usa programação em tudo.
+
+</div>
 
 ---
 
