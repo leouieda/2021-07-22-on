@@ -99,55 +99,101 @@ Associação Nacional de Criadores de Saci
 
 ---
 
-Graduado em Geofísica pela USP
+<!-- .slide: data-background-image="assets/iag.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
 
 Mesma turma que o Vanderlei.
 
-Descobri a programação e continuei indo atrás (matérias, IC, hobby).
+</div>
 
 ---
 
-Intercâmbio na York University, Canada.
+<!-- .slide: data-background-image="assets/first-contact-with-c.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
+
+Descobri a programação e continuei indo atrás (matérias, IC, hobby).
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/york.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
 
 Amigos até hoje, culturas diferentes, geodésia (ainda tenho contato com meu
 professor).
 
+</div>
+
 ---
 
-Mestrado e Doutorado pelo ON com a Valéria.
+<!-- .slide: data-background-image="assets/on.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
 
 Valéria me deixou livre pra programar.
-
+<br>
 Interesse em ciência aberta, reprodutibilidade e divulgação
-
+<br>
 Comecei a investir nas ferramentas open-source.
 
+</div>
+
 ---
 
-Professor na UERJ.
+<!-- .slide: data-background-image="assets/uerj.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
 
 Experiência excelente de dar aula e interagir com os outros professores.
-
+<br>
 Aprendi muito: pedagogia, assunto (sísmica e geologia), relações humanas
-
+<br>
 Hora para pensar a longo prazo e colocar minhas ideias em contexto
+<br>
+(fonte: [Renato Mariz](https://commons.wikimedia.org/wiki/File:UERJ_2.jpg) | CC-BY-SA)
+
+</div>
 
 ---
 
-Pesquisador visitante na UH (posdoc)
+<!-- .slide: data-background-image="assets/uh-manoa.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
 
 Abriu meus olhos para como a ciência funciona no resto do mundo.
-
+<br>
 Ressaltou as vantagens do Brasil.
-
+<br>
 Acesso à rede de pesquisadores renomados (Paul é muito popular).
-
+<br>
 Pensar sobre financiamento, impacto da pesquisa na sociedade, aplicações,
 colaborações, etc.
 
+</div>
+
 ---
 
+<!-- .slide: data-background-image="assets/liverpool.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
+
 Saí da UERJ e Professor (lecturer) em Liverpool.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/baking-evolution.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
+
+Minhas habilidades de padeiro evoluíram mais que qualquer outra coisa
+
+</div>
 
 ---
 
