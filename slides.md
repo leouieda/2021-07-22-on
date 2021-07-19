@@ -300,14 +300,29 @@ Intrusões, recursos minerais, Moho
 
 ---
 
-<!-- .slide: data-background-video="assets/seismic-waves-demo.mp4" data-background-size="contain" data-background-color="#000000" -->
+<div class="container centered">
+<div class="col-large tiny">
 
-<div class="r-stretch bottom-right bottom-dark">
+<video style="width: 100%" muted data-autoplay loop>
+<source data-src="assets/seismic-waves-demo.mp4" type="video/mp4"/>
+</video>
 
-Várias matérias: programação, grav, sensoriamento remoto, campo, etc.
-<br>
-Usa programação em tudo.
+Exemplo de um notebook da minha matéria de sísmica na UERJ
 
+</div>
+<div class="col-small">
+
+# Ensino
+
+Uso programação em quase tudo
+
+Simulação e dados reais
+
+Empodera os alunos
+
+Gravimetria, geodinâmica, sensoriamento remoto, programação, campo
+
+</div>
 </div>
 
 ---
@@ -324,51 +339,103 @@ Usa programação em tudo.
 
 ---
 
-# Privilégio
+<div class="centered huge">
+<div>
 
-Pais acadêmicos
+# 1. Privilégio
 
-Classe média
+</div>
+</div>
 
-Interior de São Paulo
+---
 
-Suporte familiar
-
-Escola privada
-
-Inglês
+<div class="container centered">
+<div class="col-left">
 
 Homem
 
 Branco + asiático
 
-Brasil tem bolsas e ensino público gratuito
+Classe média
+
+Interior de São Paulo
+
+</div>
+<div class="col-right">
+
+Escola privada
+
+Pais acadêmicos
+
+Aprendi inglês nos EUA
+
+Bolsas e ensino público gratuito
+
+</div>
+</div>
 
 ---
 
-# Sorte
+<div class="centered huge">
+<div>
 
-Prestei geofísica
+# 2. Sorte
 
-Entrar na USP em 2004 foi crucial. Turma foda. Professores foda.
-
-Período de crescimento econômico do país
-
-Valéria me aceitou mesmo com más recomendações
-
-Mentores excepcionais: Manoel, Naomi, Carla, Valéria, Paul
-
-Vaga na UERJ na hora certa
-
-Vaga do GMT na hora certa
-
-Vaga em Liverpool na hora certa
-
-Gostei de programação na hora certa
+</div>
+</div>
 
 ---
 
-# Oportunidades
+<div class="container centered">
+<div class="col-left">
+
+Prestei geofísica ao invés de física
+
+Entrei na USP em 2004
+
+Crescimento econômico do país
+
+Interesse pela programação
+
+</div>
+<div class="col-right">
+
+Vagas na hora certa (UERJ, GMT, Liv.)
+
+Mentores excepcionais:
+<br>
+Manoel D'Agrella,
+Naomi Ussami,
+<br>
+Carla Braitenberg,
+Valéria Barbosa,
+<br>
+Paul Wessel
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+# 3. Oportunidades
+
+</div>
+</div>
+
+---
+
+
+<div class="container centered">
+<div class="col-left">
+
+</div>
+<div class="col-right">
+
+</div>
+</div>
 
 Privilégio e sorte foram fatores importantes para essas oportunidades serem
 acessíveis.
@@ -386,7 +453,28 @@ com picudos.
 
 ---
 
+<div class="centered huge">
+<div>
+
+# 4. Redes de apoio
+
+</div>
+</div>
+
+---
+
+<div class="container centered">
+<div class="col-left">
+
+</div>
+<div class="col-right">
+
+</div>
+</div>
+
 # Rede de apoio
+
+Suporte familiar
 
 Turma do IAG
 
