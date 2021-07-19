@@ -400,105 +400,6 @@ também, não só fatores externos.
 
 ---
 
-<!-- .slide: data-background-image="assets/title-slide.svg" data-background-size="contain" data-background-opacity="0.5" data-background-repeat="no-repeat" data-background-color="#ffffff" -->
-
-<div class="centered">
-<div class="quote">
-
-Big quote message with a faded background image.
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
-
-</div>
-</div>
-
----
-
-# Two column layout
-
-<div class="container">
-<div class="col-left">
-
-## Subtitle
-
-This is how you make a FontAwesome list:
-
-<ul class="fa-ul">
-
-<li>
-<span class="fa-li"> <i class="fa fa-lightbulb fa-fw"></i> </span>
-Make a list with
-</li>
-
-<li>
-<span class="fa-li"> <i class="fa fa-file-alt fa-fw"></i> </span>
-some awesome icons
-</li>
-
-<li>
-<span class="fa-li"> <i class="fa fa-users fa-fw"></i> </span>
-instead of bullet points
-</li>
-
-</ul>
-
-</div>
-<div class="col-right tiny">
-
-<img src="assets/title-slide.svg">
-
-Some text explaining the figure.
-Maybe even a bit of maths like $\gamma$
-
-</div>
-</div>
-
-<div class="r-stretch bottom-right">
-
-Good place for a citation
-
-</div>
-
----
-
-# This one has columns of different size
-
-<div class="container">
-<div class="col-large tiny">
-
-<img src="assets/title-slide.svg">
-
-This way the image is larger on the screen. Use it for maps or main figures.
-
-</div>
-<div class="col-small">
-
-Explain what is shown on the image.
-
-Maybe include some maths:
-
-$ D\dfrac{\partial^4 w}{\partial x^4} = q - g (\rho_m - \rho_w) w $
-
-</div>
-</div>
-
-<div class="r-stretch bottom-left">
-
-Good place for a citation
-
-</div>
-
-
----
-
-# A boring normal slide
-
-This is a boring list:
-
-* Some bullet points
-* Some [even have links](https://www.compgeolab.org)
-
----
-
 <!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-position="top" data-background-color="#000000" -->
 
 <div class="centered">
@@ -527,11 +428,6 @@ This is a boring list:
 **slides:** [leouieda.com/2021-07-22-on](https://www.leouieda.com/2021-07-22-on)
 
 </li>
-<li><i class="fa-li fab fa-github"></i>
-
-**código:** [github.com/leouieda/2021-07-22-on](https://github.com/leouieda/2021-07-22-on)
-
-</li>
 </ul>
 </div>
 </div>
@@ -544,6 +440,13 @@ This is a boring list:
 <div>
 
 <p class="license-icons">
+<i class="fab fa-github"></i>
+</p>
+
+Source code:
+[github.com/leouieda/2021-07-22-on](https://github.com/leouieda/2021-07-22-on)
+
+<p class="license-icons" style="margin-top: 5%;">
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 </p>
 
