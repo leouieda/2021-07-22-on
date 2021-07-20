@@ -337,27 +337,40 @@ Gravimetria, geodinâmica, sensoriamento remoto, programação, campo
 
 ---
 
-<div class="container centered">
-<div class="col-left">
+<div class="centered huge">
+<div>
 
-Homem
-
-Branco + asiático
-
-Classe média
-
-Interior de São Paulo
+homem / branco + asiático / classe média
 
 </div>
-<div class="col-right">
+</div>
 
-Escola privada
+---
 
-Pais acadêmicos
+<div class="centered huge">
+<div>
 
-Aprendi inglês nos EUA
+interior de São Paulo / escola privada
 
-Bolsas e ensino público gratuito
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+pais acadêmicos / aprendi inglês nos EUA
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+bolsas e ensino superior público gratuito
 
 </div>
 </div>
@@ -374,30 +387,57 @@ Bolsas e ensino público gratuito
 
 ---
 
-<div class="container centered">
-<div class="col-left">
+<div class="centered huge">
+<div>
 
-Prestei geofísica ao invés de física
-
-Entrei na USP em 2004
-
-Crescimento econômico do país
-
-Interesse pela programação
+geofísica ao invés de física
+/
+entrei na USP em 2004
 
 </div>
-<div class="col-right">
+</div>
 
-Vagas na hora certa (UERJ, GMT, Liv.)
+---
 
-Mentores excepcionais:
-<br>
+<div class="centered huge">
+<div>
+
+período de crescimento econômico do país
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+interesse pela programação e bons professores
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+vagas na hora certa (UERJ, GMT, Liverpool)
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+Mentores **excepcionais**:
+
 Manoel D'Agrella,
 Naomi Ussami,
-<br>
 Carla Braitenberg,
 Valéria Barbosa,
-<br>
 Paul Wessel
 
 </div>
@@ -415,58 +455,73 @@ Paul Wessel
 
 ---
 
+<div class="centered huge">
+<div>
 
-<div class="container centered">
-<div class="col-left">
-
-</div>
-<div class="col-right">
+privilégio/sorte <i class="fa fa-arrow-right"></i> oportunidades acessíveis
 
 </div>
 </div>
-
-Privilégio e sorte foram fatores importantes para essas oportunidades serem
-acessíveis.
-
-Sempre busquei, pesquisei, perguntei, apliquei
-
-USP e ON forneceram muitas (financiamento e incentivo)
-
-Fui em todos os congressos que consegui
-
-Estabeleci contatos
-
-Aproveitei e me expus: não neguei apresentações, divulgo meu trabalho, converso
-com picudos.
 
 ---
 
 <div class="centered huge">
 <div>
 
-# 4. Redes de apoio
+sempre pesquisei, perguntei, **apliquei**
 
 </div>
 </div>
 
 ---
 
-<div class="container centered">
-<div class="col-left">
+<div class="centered huge">
+<div>
+
+estabelecer contatos é crucial
 
 </div>
-<div class="col-right">
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+# 4. Esforço
 
 </div>
 </div>
 
-# Rede de apoio
+---
 
-Suporte familiar
+<div class="centered huge">
+<div>
 
-Turma do IAG
+Estudei e trabalhei além do mínimo
 
-Turma do ON
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+participei: apresentações, congressos, internet
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+me expus: código, slides, material didático, tudo
+
+</div>
+</div>
 
 ---
 
