@@ -82,7 +82,7 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 <div class="r-stretch bottom-right">
 
-Sou do interior de São Paulo, região com o melhor sotaque do Brasil
+Interior de São Paulo: região com o melhor sotaque do Brasil
 
 </div>
 
@@ -111,9 +111,9 @@ Mesma turma que o Vanderlei.
 
 <!-- .slide: data-background-image="assets/first-contact-with-c.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
-<div class="r-stretch bottom-left">
+<div class="r-stretch bottom-right">
 
-Descobri a programação e continuei indo atrás (matérias, IC, hobby).
+Esse código compilou e rodou na primeira tentativa!
 
 </div>
 
@@ -121,24 +121,25 @@ Descobri a programação e continuei indo atrás (matérias, IC, hobby).
 
 <!-- .slide: data-background-image="assets/york.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
-<div class="r-stretch bottom-right">
-
-Amigos até hoje, culturas diferentes, geodésia (ainda tenho contato com meu
-professor).
-
-</div>
-
 ---
 
 <!-- .slide: data-background-image="assets/on.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
 <div class="r-stretch bottom-left">
 
-Valéria me deixou livre pra programar.
+Orientado pela Valéria Barbosa.
 <br>
-Interesse em ciência aberta, reprodutibilidade e divulgação
-<br>
-Comecei a investir nas ferramentas open-source.
+Interesse em ciência aberta, reprodutibilidade, software livre
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/on-bigode.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
+
+Turma da pós-graduação numa "Terça do Bigode".
 
 </div>
 
@@ -148,11 +149,9 @@ Comecei a investir nas ferramentas open-source.
 
 <div class="r-stretch bottom-left">
 
-Experiência excelente de dar aula e interagir com os outros professores.
+Aprendi muito: pedagogia, geologia, relações humanas
 <br>
-Aprendi muito: pedagogia, assunto (sísmica e geologia), relações humanas
-<br>
-Hora para pensar a longo prazo e colocar minhas ideias em contexto
+Hora para pensar na carreira a longo prazo
 <br>
 (fonte: [Renato Mariz](https://commons.wikimedia.org/wiki/File:UERJ_2.jpg) | CC-BY-SA)
 
@@ -164,26 +163,15 @@ Hora para pensar a longo prazo e colocar minhas ideias em contexto
 
 <div class="r-stretch bottom-right">
 
-Abriu meus olhos para como a ciência funciona no resto do mundo.
+Vista da minha janela: campus e Manoa Valley com um arco-íris
 <br>
-Ressaltou as vantagens do Brasil.
-<br>
-Acesso à rede de pesquisadores renomados (Paul é muito popular).
-<br>
-Pensar sobre financiamento, impacto da pesquisa na sociedade, aplicações,
-colaborações, etc.
+Abriu meus olhos para como a ciência funciona no exterior
 
 </div>
 
 ---
 
 <!-- .slide: data-background-image="assets/liverpool.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
-
-<div class="r-stretch bottom-left">
-
-Saí da UERJ e Professor (lecturer) em Liverpool.
-
-</div>
 
 ---
 
@@ -314,7 +302,7 @@ Exemplo de um notebook da minha matéria de sísmica na UERJ
 
 # Ensino
 
-Uso programação em quase tudo
+Programação onipresente
 
 Simulação e dados reais
 
