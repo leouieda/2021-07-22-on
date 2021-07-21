@@ -135,6 +135,16 @@ Interesse em ciência aberta, reprodutibilidade, software livre
 
 ---
 
+<!-- .slide: data-background-image="assets/meetings.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left">
+
+Aproveitei meu tempo no ON para ir em todos os congressos possíveis
+
+</div>
+
+---
+
 <!-- .slide: data-background-image="assets/on-bigode.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
 <div class="r-stretch bottom-right">
@@ -458,7 +468,7 @@ Paul Wessel
 <div class="centered huge">
 <div>
 
-privilégio/sorte <i class="fa fa-arrow-right"></i> oportunidades acessíveis
+privilégio <i class="fa fa-arrow-right"></i> oportunidades acessíveis
 
 </div>
 </div>
@@ -468,7 +478,7 @@ privilégio/sorte <i class="fa fa-arrow-right"></i> oportunidades acessíveis
 <div class="centered huge">
 <div>
 
-sempre pesquisei, perguntei, **apliquei**
+pesquisei, perguntei, **apliquei**
 
 </div>
 </div>
@@ -498,7 +508,7 @@ estabelecer contatos é crucial
 <div class="centered huge">
 <div>
 
-Estudei e trabalhei além do mínimo
+estudei e trabalhei além do mínimo
 
 </div>
 </div>
@@ -518,22 +528,34 @@ participei: apresentações, congressos, internet
 <div class="centered huge">
 <div>
 
-me expus: código, slides, material didático, tudo
+cultivei meus contatos
 
 </div>
 </div>
 
 ---
 
-# Disclaimer
+<div class="centered huge">
+<div>
 
-Essa é a minha experiência.
+me expus: código, slides, material didático
 
-Minha experiência não é aplicável a todos
+</div>
+</div>
 
-Não são prerequisitos
+---
 
-Outros caminhos são possíveis
+<div class="centered huge">
+<div>
+
+essa foi a minha experiência
+
+não é necessariamente transferível
+
+**nem é o único caminho possível**
+
+</div>
+</div>
 
 ---
 
