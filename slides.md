@@ -69,8 +69,8 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 1. Quem eu sou
 1. O que eu faço
-1. Como eu cheguei até aqui
 1. Software livre na ciência
+1. Como eu cheguei até aqui
 1. Dicas
 
 </div>
@@ -330,6 +330,96 @@ Gravimetria, geodinâmica, sensoriamento remoto, programação, campo
 <div class="centered">
 <div>
 
+# Software livre na ciência
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+ciência contemporânea
+<br>
+depende de software
+
+</div>
+</div>
+
+---
+
+<div class="centered">
+<div>
+
+<div class="huge">
+
+"Research software infrastructure is critical for **accelerating science**,
+and yet, these digital public goods are often **unsustainably funded**."
+
+</div>
+
+[Knowles et al., (2021)](https://doi.org/10.1038/s43588-021-00048-5)
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+trabalho voluntário exclui os desprivilegiados
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+avanço na acadêmica = papers + projetos
+
+pelo menos o mínimo para ser competitivo
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+**vantagens:**
+reputação, publicações,
+<br>
+agilidade na pesquisa, qualidade de ensino,
+<br>
+currículo competitivo fora da academia
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+mais informações:
+<br>
+https://www.software.ac.uk/resources/get-speed
+
+</div>
+</div>
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
+
+<div class="centered">
+<div>
+
 # Como eu cheguei até aqui
 
 </div>
@@ -556,51 +646,6 @@ não é necessariamente transferível
 
 </div>
 </div>
-
----
-
-<!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
-
-<div class="centered">
-<div>
-
-# Software livre na ciência
-
-</div>
-</div>
-
----
-
-# Software na ciência
-
-Por que é importante, etc.
-
----
-
-# Software livre
-
-Interesse por software livre na faculdade (PCs era linux)
-
-Reprodutibilidade, "stand on the shoulders of giants"
-
----
-
-# Oportunidades
-
-O que se tem a ganhar investindo em software
-
-Reputação, publicações, agilidade na pesquisa, ensino de qualidade, currículo
-competitivo fora da academia, rede de contatos.
-
----
-
-# Desafios
-
-Cuidados para se tomar.
-
-Carreira acadêmica ainda precisa de papers + projetos. Pelo menos o mínimo para
-ser competitivo. Financiamento de software. Burnout. Trabalho voluntário
-depende de privilégio.
 
 ---
 
