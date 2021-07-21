@@ -661,61 +661,192 @@ não é necessariamente transferível
 
 ---
 
-# Exterior (EUA e Europa)
+<div class="centered huge">
+<div>
 
-Tudo custa dinheiro.
+# Exterior
 
-Alunos independentes são valorizados
+EUA / Europa / Reino Unido
 
-Visto, mudança, etc são caros e difícil de financiar
-
-Tem que passar um tempo fora para conseguir um emprego
-
-Rede é tudo (recomendações e nomeações)
-
-Projetos > papers (dinheiro é muito importante)
-
-Bolsas nos EUA são mais fáceis pois podem ser pagas por projeto de professor.
-
-Precisa de certificado de inglês (TOEFL e IELTS)
-
-Ir com dinheiro próprio (do Brasil) é muito mais fácil mas tem restrições
-
-The Professor Is In é obrigatório
+</div>
+</div>
 
 ---
+
+<div class="centered huge">
+<div>
+
+# <i class="fa fa-pound-sign"></i>
+
+visto e viagem muitas vezes é você quem paga
+
+bolsa/salário pode demorar 1-2 meses para cair
+
+o custo de tudo é mais evidente
+
+bolsas nos EUA são pagas por projeto do orientador
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+certificado de inglês (TOEFL ou IELTS)
+
+PhD/posdoc fora primeiro é quase um requisito
+
+recomendações são muito importantes
+
+demonstrar capacidade de conseguir financiamento
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+Leitura obrigatória:
+[The Professor Is In](https://theprofessorisin.com/)
+(blog e livro)
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+Listas de oportunidades:
+
+https://www.leouieda.com/blog/job-sites.html
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
 
 # Programação
 
-Aprendizagem contínua (mesmo depois de 17 anos)
-
-Estude tudo que tem no Software Carpentry
-
-Progresso iterativo
-
-Leia o código dos outros
-
-Simples é melhor que rápido
-
-Se envolva em projetos
-
-Entre no Software Underground
+</div>
+</div>
 
 ---
 
+<div class="centered huge">
+<div>
+
+estude **tudo** do [Software Carpentry](https://software-carpentry.org/)
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+aprenda com o código dos outros
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+aprendizagem contínua
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+se envolva em projetos open-source
+
+[fatiando.org/#contribute](https://www.fatiando.org/#contribute)
+<span style="margin: 0 20px"></span> 😉
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
 # Geral
 
-Reconheça seus privilégios.
+</div>
+</div>
 
-Busque oportunidades e tome proveito.
+---
 
-Pense e se comporte como um profissional, não como aluno.
+<div class="centered huge">
+<div>
 
-Ser independente, ativo, entusiasmado, não ser passivo, mostrar interesse, tome
-as rédias, a vida é sua.
+seja independente, ativo, entusiasmado
 
-Vocês não são mais estudantes. São profissionais. Sua carreira depende de vocês
-também, não só fatores externos.
+tome as rédias da sua carreira e educação
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+rede de contatos é essencial
+
+demora anos para estabelecer
+
+**participe** de congressos, não só esteja presente
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+participe, pergunte, ensine, aprenda
+
+[Software Underground](https://softwareunderground.org/)
+
+[Geolatinas](https://geolatinas.weebly.com/)
+
+[Earth Science Women's Network](https://eswnonline.org/)
+
+[Black in Geoscience](https://blackingeoscience.org/)
+
+</div>
+</div>
+
+---
+
+<div class="centered huge">
+<div>
+
+🚨 **MAIS IMPORTANTE** 🚨
+
+se comporte como profissional, não como aluno
+
+</div>
+</div>
 
 ---
 
@@ -739,7 +870,7 @@ também, não só fatores externos.
 </li>
 <li><i class="fa-li fa fa-flask"></i>
 
-**groupo:** [compgeolab.org](https://www.compgeolab.org)
+**grupo:** [compgeolab.org](https://www.compgeolab.org)
 
 </li>
 <li><i class="fa-li fa fa-desktop"></i>
