@@ -8,7 +8,7 @@ parecido.
 | | Info |
 |--:|:------|
 | Quando | 22 Julho 2021 20:00 UTC |
-| Slides | https://www.leouieda.com/2021-02-22-on |
+| Slides | https://www.leouieda.com/2021-07-22-on |
 | Gravação | https://www.youtube.com/watch?v=r2x-DN6laj8 |
 
 ![](assets/title-slide.png)
