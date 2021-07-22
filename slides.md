@@ -325,6 +325,27 @@ Gravimetria, geodinâmica, sensoriamento remoto, programação, campo
 
 ---
 
+<div class="container centered">
+<div class="col-small">
+
+<img src="assets/openscience-roles.svg" style="width: 80%">
+
+</div>
+<div class="col-large">
+
+# Ciência aberta
+
+Editor no [Journal of Open Source Software](https://joss.theoj.org/)
+
+Fellow do [Software Sustainability Institute](https://www.software.ac.uk/about/fellows/leonardo-uieda)
+
+Advisory Council do [EarthArXiv](https://eartharxiv.org/)
+
+</div>
+</div>
+
+---
+
 <!-- .slide: class="slide-transition" data-background-color="#0044aa" -->
 
 <div class="centered">
