@@ -676,8 +676,6 @@ EUA / Europa / Reino Unido
 <div class="centered huge">
 <div>
 
-# <i class="fa fa-pound-sign"></i>
-
 visto e viagem muitas vezes é você quem paga
 
 bolsa/salário pode demorar 1-2 meses para cair
@@ -826,12 +824,14 @@ demora anos para estabelecer
 participe, pergunte, ensine, aprenda
 
 [Software Underground](https://softwareunderground.org/)
-
+/
 [Geolatinas](https://geolatinas.weebly.com/)
 
-[Earth Science Women's Network](https://eswnonline.org/)
-
+[Mulheres Geofísicas](https://linktr.ee/mgeofisicas)
+/
 [Black in Geoscience](https://blackingeoscience.org/)
+
+[Earth Science Women's Network](https://eswnonline.org/)
 
 </div>
 </div>
