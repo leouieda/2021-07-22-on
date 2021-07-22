@@ -9,7 +9,6 @@ parecido.
 |--:|:------|
 | Quando | 22 Julho 2021 20:00 UTC |
 | Slides | https://www.leouieda.com/2021-02-22-on |
-| DOI | https://doi.org/10.6084/m9.figshare.15036045 |
 | Gravação | https://www.youtube.com/watch?v=r2x-DN6laj8 |
 
 ![](assets/title-slide.png)
