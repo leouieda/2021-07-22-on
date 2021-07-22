@@ -775,7 +775,7 @@ aprendizagem contínua
 se envolva em projetos open-source
 
 [fatiando.org/#contribute](https://www.fatiando.org/#contribute)
-<span style="margin: 0 20px"></span> 😉
+<i class="fa fa-smile-wink" style="margin: 0 20px"></i>
 
 </div>
 </div>
@@ -841,7 +841,9 @@ participe, pergunte, ensine, aprenda
 <div class="centered huge">
 <div>
 
-🚨 **MAIS IMPORTANTE** 🚨
+<i class="fa fa-exclamation-triangle"></i>
+**MAIS IMPORTANTE**
+<i class="fa fa-exclamation-triangle"></i>
 
 se comporte como profissional, não como aluno
 

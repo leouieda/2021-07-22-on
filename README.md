@@ -1,15 +1,18 @@
-# Template for Reveal.js based talks
+# Academia e software livre: Desafios e oportunidades no Brasil e no exterior
 
-This is a template I use to make [reveal.js](https://revealjs.com/) slides.
-The slide contents are in `slides.md`, which is loaded into `index.html`.
-There is also custom styling and CSS classes to place items on slides defined
-in `css/style.less` (using [Less](http://lesscss.org/)).
+Palestra e bate papo com o National Observatory Greenstone Belt
+(SEG-EAGE Student Chapter do [Observatório Nacional](https://on.br))
+sobre minha carreira e dicas para os alunos que quiserem trilhar um caminho
+parecido.
 
-Most of the components used are included in the repository so that the
-presentation can work offline in a pinch.
+| | Info |
+|--:|:------|
+| Quando | 22 Julho 2021 20:00 UTC |
+| Slides | https://www.leouieda.com/2021-02-22-on |
+| DOI | https://doi.org/10.6084/m9.figshare.15036045 |
+| Gravação | https://www.youtube.com/watch?v=r2x-DN6laj8 |
 
-The original inspiration is this template by Matthew Turk:
-https://github.com/matthewturk/mjt-talk-template
+![](assets/title-slide.png)
 
 ## Serving the slides
 
@@ -30,17 +33,6 @@ conda install livereload -c conda-forge
 Use `make serve` to start a server at http://localhost:8008. The page will
 automatically reload the page when you update any of the files in the
 repository.
-
-## GitHub Pages
-
-Go to your repository `Setting > Pages` and select `Source` as your
-`main` branch and folder `/ (root)`. You probably want to select
-`Enforce HTTPS` as well.
-
-Your talk should now be served at https://USERNAME.github.io/REPOSITORY
-(it may take a little while for this to happen).
-For example, this template is served at
-https://www.leouieda.com/talk-template/ (I use a custom domain).
 
 ## License
 
